@@ -1,3 +1,26 @@
 body {
   background-color: rgb(235, 161, 97);
 }
+
+h2{
+  color: blueviolet;
+}
+
+article{
+  padding: 10px;
+}
+
+#articleOne{
+  font-family: 'Courier New';
+  border: 1px dotted green;
+}
+
+#articleTwo{
+  font-family: 'Franklin Gothic Medium';
+  border: 5px solid purple;
+}
+
+#articleThree{
+  font-family: 'Lucida Sans';
+  border: 3px dashed brown;
+}
